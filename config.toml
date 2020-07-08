@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Kiana's World"
+theme = "kraiklyn"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[params]
+customCss = []
+sidebarColor = "red"
+
+[[menu.shortcuts]]
+name = "Kiana on Github"
+url = "https://github.com/K-Winkles"
+weight = 10
+
+[[menu.shortcuts]]
+name = "Kiana on LinkedIn"
+url = "https://www.linkedin.com/in/kiana-alessandra/"
+weight = 10
