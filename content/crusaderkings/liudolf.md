@@ -3,6 +3,7 @@ title: "Liudolf, the Second Kaiser of the Holy Roman Empire"
 date: 2018-01-28T21:54:02+01:00
 anchor: "Liudolf, the Second Kaiser"
 weight: 30
+image: "Liudolf.png"
 ---
 
 Liudolf took after his father in many ways. Thought Otto's attempts at converting Liudolf to the Shia faith failed, Liudolf eventually found his way to the Assassins on his own.

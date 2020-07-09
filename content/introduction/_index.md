@@ -3,6 +3,7 @@ title: "A Brief Introduction"
 date: 2018-01-27T15:42:17+01:00
 anchor: "introduction"
 weight: 10
+image: "kiana.png"
 ---
 
 I love all things AI, Finance and Spiritual. I am a Software Engineer by profession, a stock investor on the side, and a Tarot card reader at night. 

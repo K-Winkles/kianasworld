@@ -3,6 +3,7 @@ title: "More on Gameplay Mechanics"
 date: 2018-01-27T15:42:17+01:00
 anchor: "more on gameplay mechanics"
 weight: 10
+image: "meme1.png"
 ---
 
 First thing to remember is that this is a game set in the feudal period. However, your playstyle will be largely influenced by your religion and culture. For instance, if you were to play a Shia character, you would have mechanics that are not available to a Catholic ruler. 

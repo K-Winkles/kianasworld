@@ -3,6 +3,7 @@ title: "Otto, the First Kaiser of the Holy Roman Empire"
 date: 2018-01-28T21:54:02+01:00
 anchor: "Otto, the First Kaiser"
 weight: 30
+image: "KingOttoCoronation.png"
 ---
 
 Today I played as King Otto of Germany. I joined the society of Assassins and secretly converted into the Shia faith. I killed countless people, family (especially brothers and cousins), my first (cheating) wife, and dissenters to my rule to get everything I wanted. I also waged multiple wars and quashed peasant rebellions.

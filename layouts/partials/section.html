@@ -3,6 +3,9 @@
         <a href="#{{ .Params.anchor }}">{{ .Title }}</a>
     </h1>
     <div class="content">
+        <div id="container">
+            <img src="{{ .Params.image }}" width="auto" height="500" style="display:block; margin-right:auto; margin-left:auto;">
+        </div>
         {{ .Content }}
     </div>
 </section>

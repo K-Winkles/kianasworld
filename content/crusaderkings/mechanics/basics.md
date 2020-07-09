@@ -3,6 +3,7 @@ title: "Basic Gameplay Mechanics"
 date: 2018-01-27T15:42:17+01:00
 anchor: "basic gameplay mechanics"
 weight: 10
+image: "worldmap.jpg"
 ---
 
 This is the part where I talk at length about the intricacy of CK2's gameplay.

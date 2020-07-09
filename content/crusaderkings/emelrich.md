@@ -3,6 +3,7 @@ title: "Emelrich, the Third Kaiser of the Holy Roman Empire"
 date: 2018-01-28T21:54:02+01:00
 anchor: "Emelrich, the Third Kaiser"
 weight: 30
+image: "Emelrich.png"
 ---
 
 Emelrich was crowned Kaiser after his father Liudolf died infirm. He took on the throne at the relatively older age of 39. 
