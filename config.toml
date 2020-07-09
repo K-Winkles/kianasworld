@@ -8,7 +8,6 @@ pygmentsStyle = "monokailight"
 
 [params]
 customCss = []
-sidebarColor = "red"
 
 [[menu.shortcuts]]
 name = "Kiana on Github"
