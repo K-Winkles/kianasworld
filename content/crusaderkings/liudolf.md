@@ -21,6 +21,6 @@ He later returned to the asssassins, this time practicing the Shia faith in secr
 
 Decades later, he rules the Holy Roman Empire with an iron fist, with a handful of Kings as his vassals. He attained Grandmaster status and sent his assassin sons off to do his bidding.
 
-{{< block note >}}
+{{< block info >}}
 Liudolf successfully converted three of his children into the Shia faith. His two sons, one of whom became the head of a mercenary company and one of his daughters.
 {{< /block >}}
