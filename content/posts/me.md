@@ -20,7 +20,7 @@ Icon taken from **[freepik](https://www.flaticon.com/free-icon/line-chart_317628
 * As a Tarot Card Reader, I have had a strong intuition and "the sense/s" since I was very young. I decided to turn it into a side business in order to help people and to flex my entrepreneurship skills.
 
 ### Tarot Card Reader
-![Stocks](/stocks.png)
+![Stocks](/tarot.png)
 
 Icon taken from **[freepik](https://www.flaticon.com/free-icon/tarot_867882?term=tarot&page=1&position=9)**
 
