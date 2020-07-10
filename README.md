@@ -1,5 +1,5 @@
 # My Personal Site 
 
-Created with Hugo. npq theme taken from **[here](https://themes.gohugo.io/npq-hugo/)**
+You can access the live site at **[here](https://kianasworld.netlify.app/)**.
 
-I update my content regularly. I mostly document my Crusader Kings 2 adventures.
+Created with Hugo. npq theme taken from **[here](https://themes.gohugo.io/npq-hugo/)**.
