@@ -11,5 +11,5 @@ My all time favorite game is Crusader Kings 2. I love the intrigue and politics 
 Under this section, I will include my entries for notable characters and events in the game. We love RNG! Woohoo!
 
 {{< block note >}}
-If you want to add me on Steam, let me know.
+My Steam profile: https://steamcommunity.com/id/kianalessandra/
 {{< /block >}}

@@ -2,7 +2,7 @@ html, body {
   font-family: "Arial Black", sans-serif;
   color: black;
   height: 100%;
-  background-color: #f5d4d4;
+  background-color: #FFE55C;
 }
 
 @media (min-width: 48em) {
@@ -37,7 +37,7 @@ html, body {
   text-align: center;
   padding: 1rem 1rem;
   color: white;
-  background-color: rgba(146, 27, 11, 0.829);
+  background-color: black;
   display: flex;
   flex-direction: column;
 }
@@ -87,11 +87,11 @@ html, body {
 .sidebar a:hover,
 .sidebar a:visited {
   text-decoration: none;
-  color: white;
+  color:white;
 }
 
 .sidebar a:hover {
-  color: rgb(223, 223, 223);;
+  color: rgb(109, 128, 231);;
 }
 
 .sidebar ul {
@@ -199,7 +199,7 @@ section.page h1 a,
 section.page h1 a:hover,
 section.page h1 a:visited {
   text-decoration: none;
-  color: #363636;
+  color: #AE0000;
 }
 
 section.page a,

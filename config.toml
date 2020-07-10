@@ -10,11 +10,16 @@ pygmentsStyle = "monokailight"
 customCss = []
 
 [[menu.shortcuts]]
-name = "Kiana on Github"
+name = "Github"
 url = "https://github.com/K-Winkles"
-weight = 10
+weight = 20
 
 [[menu.shortcuts]]
-name = "Kiana on LinkedIn"
+name = "LinkedIn"
 url = "https://www.linkedin.com/in/kiana-alessandra/"
-weight = 10
+weight = 20
+
+[[menu.shortcuts]]
+name = "Steam"
+url = "https://steamcommunity.com/id/kianalessandra/"
+weight = 20
