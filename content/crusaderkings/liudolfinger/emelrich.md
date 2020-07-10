@@ -21,7 +21,7 @@ aliases = ["characters"]
 
 Emelrich was crowned Kaiser after his father Liudolf died infirm. He took on the throne at the relatively older age of 39. 
 
-![Kaiser Otto](http://localhost:1313/Emelrich.png)
+![Kaiser Otto](/Emelrich.png)
 
 The first order of business for any Kaiser is to clean up the mess their predecessor left. With House Liudolfinger, it is common for the ruling emperor to leave a bloody trail and vile reputation before they pass on to the nether world. 
 

@@ -18,7 +18,7 @@ aliases = ["basics"]
 ## Introduction
 This is the part where I talk at length about the intricacy of CK2's gameplay.
 
-![CK2 Honeycomb logo](http://localhost:1313/ck2.png)
+![CK2 Honeycomb logo](/ck2.png)
 
 Image taken from **[here](https://www.reddit.com/r/CrusaderKings/comments/8nxl2o/honeycomb_icon_for_ck2/)**
 

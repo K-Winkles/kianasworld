@@ -21,7 +21,7 @@ aliases = ["characters"]
 
 Liudolf took after his father in many ways. Thought Otto's attempts at converting Liudolf to the Shia faith failed, Liudolf eventually found his way to the Assassins on his own.
 
-![Kaiser Otto](http://localhost:1313/Liudolf.png)
+![Kaiser Otto](/Liudolf.png)
 
 He first tried to join Lucifer's Own, participating in their dark rituals and submitting himself to the dark lord. However, he grew impatient. His kingdom was in disarray and he needed power NOW.
 

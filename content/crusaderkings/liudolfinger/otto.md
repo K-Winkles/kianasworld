@@ -20,7 +20,7 @@ aliases = ["characters"]
 
 Kaiser Otto is the first Kaiser of the Holy Roman Empire. He was originally King Otto of Germany but after defeating the Italians, he formed the Holy Roman Empire and was thus crowned Kaiser.
 
-![Kaiser Otto](http://localhost:1313/Otto.png)
+![Kaiser Otto](/Otto.png)
 
 He was a member of the society of Assassins and practiced the Shia faith in secret. He eventually rose to the rank of Propagandist (second to the highest rank from Grandmaster). He attempted to convert his own children many times to the Shia faith but was largely unsuccesful.
 

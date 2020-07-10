@@ -18,7 +18,7 @@ aliases = ["advanced"]
 
 So here's the world map... They say CK2 is nothing but an elaborate coloring game...
 
-![Worldmap](http://localhost:1313/worldmap.jpg)
+![Worldmap](/worldmap.jpg)
 
 And they're right. 
 
@@ -93,7 +93,7 @@ Here are the basic levels of rulership:
 * Count
 * Mayor / Bishop
 
-![10 Years Later...](http://localhost:1313/meme2.jpeg)
+![10 Years Later...](/meme2.jpeg)
 
 The titles change according to religion, culture, etc. but the basic principle remains the same. 
 
