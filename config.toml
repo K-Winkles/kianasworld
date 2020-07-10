@@ -1,25 +1,51 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Kiana's World"
-theme = "kraiklyn"
-
-pygmentsCodeFences = true
-pygmentsStyle = "monokailight"
+copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+theme = "npq-hugo"
+pygmentsUseClasses=true
 
 [params]
-customCss = []
+  author = "Kiana Alessandra"
+  description = "This is my world."
+  keywords = "Kiana"
+  useAvatar = true
+  microBlogSection = "posts"
+  displayMicroBlog = true
+  displayRecent = true
+  displayHomeContent = true
+  recentMax = 4
+  mail = "kvvillaera@up.edu.ph"
+  formspreeID = "mayppglb"
 
-[[menu.shortcuts]]
-name = "Github"
-url = "https://github.com/K-Winkles"
-weight = 20
-
-[[menu.shortcuts]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/kiana-alessandra/"
-weight = 20
-
-[[menu.shortcuts]]
-name = "Steam"
-url = "https://steamcommunity.com/id/kianalessandra/"
-weight = 20
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class=\"fas fa-home fa-sm\"></i>"
+    url = "/"
+    weight = -9 
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class=\"fas fa-tags fa-ms\"></i>"
+    url = "/tags"
+    weight = -7 
+  [[menu.main]]
+    name = "Github"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "https://github.com/K-Winkles"
+    weight = -6 
+  [[menu.main]]
+    name = "LinkedIn"
+    pre = "<i class=\"fab fa-linkedin fa-ms\"></i>"
+    url = "https://www.linkedin.com/in/kiana-alessandra/"
+    weight = -6 
+  [[menu.main]]
+    name = "Steam"
+    pre = "<i class=\"fab fa-steam fa-ms\"></i>"
+    url = "https://steamcommunity.com/id/kianalessandra/"
+    weight = -6 
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class=\"far fa-envelope\"></i>"
+    url = "/contact"
+    weight = -1 
