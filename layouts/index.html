@@ -1,5 +1,18 @@
 {{define "main"}}
     {{if .Site.Params.displayHomeContent}}
+    <div style='margin-top: 10px; font-size: 15px;'>
+        <p>
+        <b>
+            Important: I did not use Wix, Squarespace, nor Wordpress to make this site. I used Hugo, an open-source static site generator. I also used Netlify to host my site for free. Please don't insult me. (• ε •)
+        </b>
+        </p>
+
+        <p>
+        <b>
+            Just kidding, if you use Wix, Squarespace, or Wordpress it's cool.
+        </b>
+        </p>
+    </div>
         {{.Content}}
     {{end}}
     {{if ne .Site.Params.displayRecent false}}

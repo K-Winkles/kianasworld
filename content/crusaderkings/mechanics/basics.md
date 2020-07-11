@@ -35,8 +35,12 @@ I personally enjoy setting up schemes at length and then executing them perfectl
 * You can generally attain your goals of glory by gaining more control of lands and vassals.
 * The fun part is that you can take control of more holdings and vassals in a variety of ways. The most straightforward method is to wage war (provided you have a casus belli aka a valid reason). But the more exciting ways include assassination and finding loopholes in the inheritance laws.
 
-## A Funny Video to Get You Excited!
+## A Bunch of Videos to Get You Excited
 
-The guy doesn't get too technical here and it's overall just a really good time.
+The guy doesn't get too technical here and it's overall just a really good time. It's quite hilarious to see how abusable some of the features are like the Seduction focus.
+
+{{< youtube H9w5U1rSd88 >}}
+
+And here's the Game of Thrones version...
 
 {{< youtube NPbgvk37DBQ >}}
