@@ -1,6 +1,6 @@
 +++
 author = "Kiana Alessandra"
-title = "Kaiser Liudolf Liudolfinger"
+title = "Kaiser Liudolf 'The Just' Liudolfinger"
 date = "2020-07-08"
 description = "The second Kaiser of the Holy Roman Empire"
 tags = [
@@ -49,3 +49,5 @@ Liudolf successfully converted four of his children into the Shia faith. His two
 Eventually, he gave ghost during his late 50s, dying infirm as did his father before him. Like his father, he was known as a raving madman who would kill anyone to get his way.
 
 His firstborn son, Emelrich, took on the empire. Little did Emelrich know, the majority of his siblings had been secretly practicing the Shia faith...
+
+Hail Kaiser Liudolf!
