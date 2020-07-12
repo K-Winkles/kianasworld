@@ -12,7 +12,7 @@ categories = [
     "videogames"
 ]
 series = ["Crusader Kings 2"]
-aliases = ["memes"]
+aliases = ["crusader kings"]
 
 +++
 ## Source

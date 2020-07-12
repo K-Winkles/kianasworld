@@ -12,7 +12,7 @@ categories = [
     "videogames"
 ]
 series = ["Crusader Kings 2"]
-aliases = ["basics"]
+aliases = ["crusader kings"]
 
 +++
 ## Introduction

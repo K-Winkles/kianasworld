@@ -17,7 +17,7 @@ aliases = ["portfolio"]
 
 Repo can be found **[here](https://github.com/K-Winkles/EDSA-Traffic-Analysis-and-Visualization)**.
 
-This mini-project is an exercise in the use of Python and some of its tools. More than that, the data extracted by the script will most iikely be of use later on.
+This mini-project is an exercise in the use of Python and some of its tools. More than that, the data extracted by the script will most likely be of use later on.
 
 ### Data Extraction
   * Beautiful Soup
@@ -52,6 +52,8 @@ Note that during the 7-day timeframe of data extraction, there was a holiday in 
 
 ## Results: Balintawak
 
+Out of the 32 lines, let's take a look at Balintawak. 
+
 In order to get coherent results, I had to split the datasets by line by time of day by northbound/southbound by hourly average giving me 4 sets per line. In total, 128 sets of data points. The raw data is far too noisy for analysis.
 
 ### Northbound Morning
@@ -79,5 +81,4 @@ Here is a polynomial regression applied to the set of data points for Balintawak
 ![Balintawak Southbound PM](/BalintawakSouthboundPM.png)
 
 ### Conclusion
-
-Insufficient data points. Nothing that speaks of a correlation given this set of sets of data points.
+It seems that a polynomial regression with degree 5 encompasses the results the best. However, we still see that there are insufficient data points. Nothing that speaks of a correlation given this set of sets of data points.
