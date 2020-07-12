@@ -17,6 +17,10 @@ aliases = ["characters"]
 +++
 ---
 
+## House Liudolfinger Family Tree Relative to Kaiser Liudolf
+
+![Kaiser Liudolf Family Tree](/LiudolfFamilyTree.png)
+
 ## Life Summary
 
 Liudolf took after his father in many ways. Thought Otto's attempts at converting Liudolf to the Shia faith failed, Liudolf eventually found his way to the Assassins on his own.

@@ -16,6 +16,11 @@ series = ["Crusader Kings 2"]
 aliases = ["characters"]
 +++
 ---
+
+## House Liudolfinger Family Tree Relative to Kaiser Otto
+
+![Kaiser Otto Family Tree](/OttoFamilyTree.png)
+
 ## Life Summary
 
 Kaiser Otto is the first Kaiser of the Holy Roman Empire. He was originally King Otto of Germany but after defeating the Italians, he formed the Holy Roman Empire and was thus crowned Kaiser.

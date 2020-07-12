@@ -1,6 +1,6 @@
 +++
 author = "Kiana Alessandra"
-title = "Kaiser Emelrich Liudolfinger"
+title = "Kaiser Emelrich 'The Merry' Liudolfinger"
 date = "2020-07-09"
 description = "The third Kaiser of the Holy Roman Empire"
 tags = [
@@ -16,6 +16,10 @@ series = ["Crusader Kings 2"]
 aliases = ["characters"]
 +++
 ---
+
+## House Liudolfinger Family Tree Relative to Kaiser Otto
+
+![Kaiser Emelrich Family Tree](/EmelrichFamilyTree.png)
 
 ## Life Summary
 
@@ -46,3 +50,11 @@ The pope seemed to have enjoyed seeing Emelrich on his knees so much that he wan
 Despite being excommunicated twice, Kaiser Emelrich was an extremely charismatic diplomat. All his vassals adored him despite his being a tyrant and non-member of the church. It helps that the crown has extremely deep pockets and a three generations worth of assassins.
 
 ![Kaiser Emelrich](/Emelrich5.png)
+
+During the latter part of his life, he ironically focused on grooming his entire family. Unlike his predecessors, he saw the value of marriage and family ties. So he devoted his later years to raising his children and grandchildren, converting most of them into the Shia faith, and marrying them off into the families of the most powerful vassals in the realm.
+
+His philosophy was: If House Liudolfinger will not hold the Empire forever, then at least House Liudolfinger will be the most premium bloodline with the most premium claims. In fact, he successfully recruited two of his sons into the assassins (at the expense of his other family members). He also converted most of his daughters into the Shia faith.
+
+![Gregor Recruitment](/GregorRecruitment.png)
+
+![Thanos Recruitment](/ThanosRecruitment.png)
