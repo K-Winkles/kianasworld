@@ -1,7 +1,7 @@
 +++
 author = "Kiana Alessandra"
 title = "Basic Gameplay Mechanics"
-date = "2020-07-08"
+date = "2020-07-13"
 description = "Brief text describing basic gameplay mechanics for CK2."
 tags = [
     "crusaderkings2",
@@ -44,3 +44,7 @@ The guy doesn't get too technical here and it's overall just a really good time.
 And here's the Game of Thrones version...
 
 {{< youtube NPbgvk37DBQ >}}
+
+And next in the series, some guy mates everything that moves.
+
+{{< youtube KMVBhvYqHsA >}}
