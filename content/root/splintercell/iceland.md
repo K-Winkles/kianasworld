@@ -27,8 +27,11 @@ As a kid I had a few quirky satisfactions I would derive from the game. One of t
 
 {{< youtube  YVlnpyKDpbU>}}
 
-# Technically I also have 5 minutes ish worth of footage but...
+Watch this loser die in the most pathetic way possible. 
 
-My internet provider hasn't found it in their hearts to relocate our connection to our new condo. So F. 
+{{< youtube 5sbFvicaSGc>}}
 
-I will upload more footage of my misery once I have reconnected with civilization.
+
+# Technically I can upload full playthroughs...
+
+But we just moved condos and our internet service provider are a bunch o cucks
