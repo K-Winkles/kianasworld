@@ -82,6 +82,10 @@ In fact, these imagined concepts are what holds societies together. Without them
 
 "Voltaire said about God that 'there is no God, but don't tell that to my servant, lest he murder me at night'. Hammurabi would have said the same about his principle of hierarchy and Thomas Jefferson about human rights. Homo sapiens has no natural rights, just as spirders, hyenas, and chimpanzees have no natural rights. But don't tell that to our servants, lest they murder us at night."
 
+## Conclusion
+
+**"There is no way out of the imagined order. When we break down our prison walls and run towards freedom, we are in fact running into the more spacious exercise yard of a bigger prison."**
+
 
 
 
