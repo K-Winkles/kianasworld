@@ -27,5 +27,11 @@ Icon taken from **[freepik](https://www.flaticon.com/free-icon/line-chart_317628
 
 Icon taken from **[freepik](https://www.flaticon.com/free-icon/tarot_867882?term=tarot&page=1&position=9)**
 
+### Sneakerhead 
+
+I love sneakers!!! Check out **[my dedicated insta](https://instagram.com/swishysushi)** to see my stash.
+
+![My sneaker instagram](/sneakers/swishysushi.jpg)
+
 ## Contact me
 To get in touch with me, hit the external links I have included on the sidebar. Alternatively, you can send me an email on kvvillaera@up.edu.ph via the contact page.
