@@ -32,13 +32,29 @@ One for the house and one for the outside.
 
 ![X](/sneakers/Adilette2.jpg)
 
+My mom and sis wanted one too so for the sister she gets this:
+
+![X](/sneakers/Adilette3.jpg)
+
+And my mom gets the exact same light blue pair I have except it's two sizes up.
+
 ### 4UTURE RNR STARWARS 3
+
+JEDI MASTER for the mom and GALACTIC EMPIRE for me.
 
 ![X](/sneakers/4UTURE_RNR_3.jpg)
 
 ![X](/sneakers/4UTURE_RNR_3_2.jpg)
 
+### FALCON
+
+A surprise gift for the lil sister. She loves her chonky & loud sneakers.
+
+![X](/sneakers/Falcon.jpg)
+
 ### ULTRABOOST 19
+
+Ultraboost 19 for HIM (my dad) and HER (my mom). Romantic, right?
 
 ![X](/sneakers/UB19DAD.jpg)
 
