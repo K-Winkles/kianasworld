@@ -1,7 +1,7 @@
 +++
 author = "Kiana Alessandra"
 title = "An Imagined Order"
-date = "2020-07-21"
+date = "2020-07-29"
 description = "How Harari reasons out that human rights are nothing but figments of our imaginations."
 tags = [
     "philosophy"
@@ -13,6 +13,12 @@ series = ["Philosophy"]
 aliases = ["Philosophy"]
 
 +++
+
+## Companion audio file 
+
+You can play this as you read.
+
+[Companion mp3 file narrated by me!](/philosophy/imaginedorder.mp3)
 
 ## About the book
 

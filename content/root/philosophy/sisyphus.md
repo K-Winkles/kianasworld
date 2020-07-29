@@ -1,7 +1,7 @@
 +++
 author = "Kiana Alessandra"
 title = "The Myth of Sisyphus"
-date = "2020-07-21"
+date = "2020-07-29"
 description = "Why I love the Myth of Sysiphus"
 tags = [
     "philosophy"
@@ -13,6 +13,12 @@ series = ["Philosophy"]
 aliases = ["Philosophy"]
 
 +++
+
+## Companion audio file 
+
+You can play this as you read.
+
+[Companion mp3 file narrated by me!](/philosophy/mythofsisyphus.mp3)
 
 ## The Absurdity of the Human Condition
 
