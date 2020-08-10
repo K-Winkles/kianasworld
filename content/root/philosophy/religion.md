@@ -20,13 +20,13 @@ The memes I put here are not my own. You're free to pick it apart as you see fit
 
 ## Companion audio file 
 
-Coming soon.
+You can play this as you read.
 
 [Companion mp3 file narrated by me!](/philosophy/religion.mp3)
 
 ## About the book
 
-**[A Brief History of Humankind by Yuval Noah Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)** is about humankind's evolution from a biological, social, and cultural standpoint. There are some pretty strong opinions in the book so I would take them with a grain of salt if you do not already have a background in Anthropology. Nevertheless, I thoroughly enjoy the discussions outline in the book.
+**[A Brief History of Humankind by Yuval Noah Harari](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)** is about humankind's evolution from a biological, social, and cultural standpoint. There are some pretty strong opinions in the book so I would take them with a grain of salt if you do not already have a background in Anthropology. Nevertheless, I thoroughly enjoy the discussions outlined in the book.
 
 ![wheat!](/philosophy/wheat.jpg)
 
