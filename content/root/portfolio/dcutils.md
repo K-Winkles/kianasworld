@@ -18,8 +18,8 @@ aliases = ["portfolio"]
 
 As a byproduct of my responsibilities as the Data Engineer in charge of the company's Data Center, I produced this simple utility package specialized for data centers.
 
-At the moment of writing, it only contains batch move scripts. However, in the future, I will be adding batch CRUD and cross-bucket scripts.
+In the future, I will be adding batch CRUD and cross-bucket scripts.
 
-[Pypi](https://pypi.org/project/dcutils/0.3/)
+[Pypi](https://pypi.org/project/dcutils)
 
 [Github](https://github.com/K-Winkles/dcutils)
